@@ -41,4 +41,4 @@ To fix this operational crisis without requesting an additional hiring budget, I
 
 ## How to Run This Project
 1. Run the `.sql` script in **Google BigQuery**. *(Note: Update the project path `turing-seeker-498011-n9.WFM_Project_Data` to match your own BigQuery dataset environment).*
-2. Open the `.pbix` file in **Power BI Desktop** to interact with the Cross-Filtering capabilities, DAX measures, and Conditional Formatting Rules.
+2. Open the `.pbix` file in **Power BI Desktop** to interact with the Cross-Filtering capabilities, DAX measures, and Conditional Formatting Rules..
